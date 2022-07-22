@@ -7,6 +7,11 @@
     <title>SMG</title>
     <link rel="icon" type="image/x-icon" href="images/SMHjpg.jpg">
     <link rel = "stylesheet" href="style.css">
+<<<<<<< Updated upstream
+=======
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+>>>>>>> Stashed changes
 </head>
 <body>
     <div class = "banner">
@@ -14,7 +19,12 @@
             <a href = "index.php"><img src = "images/SMHremoved.png" class = "logo"></a>
             <ul>
                 <li><a href="index.php">Начало</a></li>
+<<<<<<< Updated upstream
                 <li><a href="#.php">Повече за нас</a></li>
+=======
+                <li><a href="aboutus.php">Повече за нас</a></li>
+                <li><a href="#.php">Блог</a></li>
+>>>>>>> Stashed changes
                 <li><a href="team.php">Екип</a></li>
                 <li><a href="#.php">Цел</a></li>
                 <li><a href="#.php"></a></li>
