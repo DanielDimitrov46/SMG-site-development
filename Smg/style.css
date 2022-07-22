@@ -24,7 +24,7 @@
 }
 
 .logo {
-  width: 100px;
+  width: 40%;
   cursor: pointer;
 }
 .navbar ul li {
@@ -68,3 +68,8 @@
 /*.carousel slide{*/
 /*.d-block*/
 /*}*/
+
+.image-logo{
+  width: 30%;
+  height: auto;
+}
