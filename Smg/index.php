@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<!--    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">-->
     <title>SMG</title>
     <link rel="icon" type="image/x-icon" href="images/SMHjpg.jpg">
     <link rel = "stylesheet" href="style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <style>
+<style>
         [class = "col"]{
             padding: 1rem;
             background-color: blue;
@@ -24,7 +23,7 @@
             <a href = "index.php"><img src = "images/SMHremoved.png" class = "logo"></a>
             <ul>
                 <li><a href="index.php">Начало</a></li>
-                <li><a href="#.php">Повече за нас</a></li>
+                <li><a href="aboutus.php">Повече за нас</a></li>
                 <li><a href="#.php">Блог</a></li>
                 <li><a href="team.php">Екип</a></li>
                 <li><a href="#.php">Цел</a></li>
