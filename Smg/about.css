@@ -3,4 +3,16 @@
 }
 .video{
     margin-left: 70px;
+    border: none;
+}
+.col{
+    margin-left: 10px;
+    padding: 0;
+    font-family: "Tahoma", sans-serif;
+}
+.intro-md{
+    padding: 1rem;
+    background-color: rgb(44 180 48 / 35%);
+    border: 2px  #6fd672;
+    color: #fff;
 }
