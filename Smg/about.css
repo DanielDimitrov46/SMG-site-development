@@ -3,8 +3,6 @@
 }
 .video{
     margin-left: 70px;
-<<<<<<< Updated upstream
-=======
     border: none;
 }
 .col{
@@ -13,11 +11,8 @@
     font-family: "Tahoma", sans-serif;
 }
 .intro-md{
-    /*padding: 1rem;*/
+    padding: 1rem;
     background-color: rgb(44 180 48 / 35%);
+    border: 2px  #6fd672;
     color: #fff;
-    width:100%;
-    height: auto;
-    margin: 20px 0 100px 0;
->>>>>>> Stashed changes
 }
