@@ -3,4 +3,21 @@
 }
 .video{
     margin-left: 70px;
+<<<<<<< Updated upstream
+=======
+    border: none;
+}
+.col{
+    margin-left: 10px;
+    padding: 0;
+    font-family: "Tahoma", sans-serif;
+}
+.intro-md{
+    /*padding: 1rem;*/
+    background-color: rgb(44 180 48 / 35%);
+    color: #fff;
+    width:100%;
+    height: auto;
+    margin: 20px 0 100px 0;
+>>>>>>> Stashed changes
 }
