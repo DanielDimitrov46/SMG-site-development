@@ -13,7 +13,7 @@
       rgba(44, 180, 48, 0.308)
     ),
     url(images/background.jpg);
-  background-size: cover;
+  background-size: cover; /*object fit*/
   background-position: center;
 }
 .navbar {

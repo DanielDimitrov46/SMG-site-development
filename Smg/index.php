@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name=”viewport” content=”width=device-width, initial-scale=1.0">
 
-    <title>SMG</title>
+    <title>SMG STUDIOS</title>
     <link rel="icon" type="image/x-icon" href="images/SMHjpg.jpg">
     <link rel = "stylesheet" href="style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -14,9 +14,8 @@
 
             padding: 1rem;
             background-color: blue;
-            border: 2px solid #fff3;
+            border: 2px solid #000000;
             color: white;
-
         }
     </style>
 </head>
@@ -40,7 +39,7 @@
 <!--                    Запознай се с нашето начало!</p></div>-->
 <!---->
 <!--        </div>-->
-    <div class = "motivational-phrase">
+    <div class = "container-fluid">
         <p>Докосни се до  <strong>истинското </strong>, не само с думи , но и с  действия.
             Когато искаш нещо се <strong>бориш до последно</strong>, за да се превърне в реалност. Ако това нещо те кара да усмихваш продължавай да го правиш.
             <br>Блясъка в нашите очи е <strong>SMG</strong>.
