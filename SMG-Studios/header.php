@@ -17,13 +17,22 @@
 <!--- NAVBAR -->
 <div class = "banner">
     <div class = "navbar">
-        <a href = "index.php" class = "image-logo"><img src = "images/SMHremoved.png" class = "logo"></a>
-        <ul>
-            <button  class="button button1" onclick="window.location.href='team.php'" style="float: right; ">ЕКИП</button>
-            <button class="button button1" onclick="window.location.href='blog.php'"  style="float: right">БЛОГ</button>
-            <button  class="button button1" onclick="window.location.href='about.php'" style="float: right; ">ПОВЕЧЕ ЗА НАС</button>
-            <button class="button button1" onclick="window.location.href='index.php'"  style="float: right">НАЧАЛО</button>
-        </ul>
+
+        <div class="col">
+            <a href = "index.php" class = "image-logo"><img src = "images/SMHremoved.png" class = "logo"></a>
+        </div>
+        
+
+        <div class="col">
+            <ul>
+                <button  class="button button1" onclick="window.location.href='team.php'" style="float: right; ">ЕКИП</button>
+                <button class="button button1" onclick="window.location.href='blog.php'"  style="float: right">БЛОГ</button>
+                <button  class="button button1" onclick="window.location.href='about.php'" style="float: right; ">ПОВЕЧЕ ЗА НАС</button>
+                <button class="button button1" onclick="window.location.href='index.php'"  style="float: right">НАЧАЛО</button>
+            </ul>
+        </div>
+
+
     </div>
 </div>
 

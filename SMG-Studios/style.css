@@ -50,12 +50,9 @@
   position: absolute;
   left: 0;
   bottom: -10px;
-  transition: 0.5s;
+
 }
 
-/*.navbar ul li:hover::after{*/
-/*  width: 100%;*/
-/*}*/
 .motivational-phrase p{
   font-family: 'Questrial', sans-serif;
   width: 100%;
@@ -67,9 +64,6 @@
   padding: 0 57px;
   margin: 35px 11px;
 }
-/*.carousel slide{*/
-/*.d-block*/
-/*}*/
 
 .image-logo{
   width: 30%;
