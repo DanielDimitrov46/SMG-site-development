@@ -14,28 +14,22 @@
     <link rel="icon" type="image/x-icon" href="images/SMHjpg.jpg">
     <link rel = "stylesheet" href="style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <style>
-        [class *= "col"]{
-
-            padding: 1rem;
-            background-color: blue;
-            border: 2px solid #000000;
-            color: white;
-        }
-    </style>
+        <?php
+        include ('header.php');
+        ?>
 </head>
 
-<!---  NAVBAR -->
-<body>
-    <div class = "banner">
-        <div class = "navbar">
-            <a href = "index.php" class = "image-logo"><img src = "images/SMHremoved.png" class = "logo"></a>
-            <ul>
-                <li><a href="index.php">Начало</a></li>
-                <li><a href="about.php">Повече за нас</a></li>
-                <li><a href="blog.php">Блог</a></li>
-                <li><a href="team.php">Екип</a></li>
-             </ul>
-        </div>
-    </div>
->
+<!--<!---  NAVBAR -->-->
+<!--<body>-->
+<!--    <div class = "banner">-->
+<!--        <div class = "navbar">-->
+<!--            <a href = "index.php" class = "image-logo"><img src = "images/SMHremoved.png" class = "logo"></a>-->
+<!--            <ul>-->
+<!--                <li><a href="index.php">Начало</a></li>-->
+<!--                <li><a href="about.php">Повече за нас</a></li>-->
+<!--                <li><a href="blog.php">Блог</a></li>-->
+<!--                <li><a href="team.php">Екип</a></li>-->
+<!--             </ul>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</body>-->
