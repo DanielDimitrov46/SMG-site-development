@@ -19,9 +19,9 @@
     <div class = "navbar">
 
         <div class="col">
-            <a href = "index.php" class = "image-logo"><img src = "images/SMHremoved.png" class = "logo"></a>
+            <a href = "index.php" class = "image-logo"><img src = "images/SMHremoved.png" class = "logo" style="width: 15%"></a>
         </div>
-        
+
 
         <div class="col">
             <ul>

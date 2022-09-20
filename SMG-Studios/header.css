@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
@@ -7,18 +9,20 @@
 }
 
 .navbar {
-    width: 85%;
+    height: 16%;
+    width: 100%;
     margin: auto;
     padding: 10px 0;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color: #faefe9;
 }
 
-.logo {
-    width: 40%;
-    cursor: pointer;
-}
+/*.logo {*/
+/*    width: 25%;*/
+/*    cursor: pointer;*/
+/*}*/
 
 .navbar ul li {
     list-style: none;
@@ -63,8 +67,7 @@
 /*}*/
 
 .image-logo{
-    width: 30%;
-    height: auto;
+    width: 25%;
 }
 
 /*BUTTONS*/
@@ -72,7 +75,7 @@
     border-radius: 6px;
     background-color: white;
     border: none;
-    color: #51b2bb;
+    color: #90c97c;
     padding: 10px 10px;
     text-align: center;
     text-decoration: none;
@@ -85,11 +88,11 @@
 .button1 {
     background-color: white;
     color: black;
-    border: 2px solid #51b2bb;
+    border: 2px solid #90c97c;
 }
 
 .button1:hover {
     transition: 0.5s;
-    background-color: #51b2bb;
+    background-color: #90c97c;
     color: white;
 }
