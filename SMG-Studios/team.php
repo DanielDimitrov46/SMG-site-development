@@ -12,7 +12,7 @@
 <a href = "index.php"><img class = "logo" src="images/SMHjpg.jpg" style = "width:10%; height:10%"></a>
 <h1>Database structures</h1>
 <?php
-$servername = "localhost:3306";
+$servername = "localhost:3307";
 $username = "root";
 $password = "";
 $dbname = "SMG";
