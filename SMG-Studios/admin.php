@@ -7,7 +7,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SMG</title>
-    <link rel="stylesheet" href="team.css">
 </head>
 <body>
 <a href = "index.php"><img class = "logo" src="images/SMHjpg.jpg" style = "width:10%; height:10%"></a>

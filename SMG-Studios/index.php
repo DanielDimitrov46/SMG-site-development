@@ -19,6 +19,7 @@
         <?php
         include ('header.php');
         ?>
+
 </head>
 
 
@@ -48,6 +49,9 @@
         <span class="visually-hidden">Next</span>
     </button>
 </div>
+<?php
+include ('credits.php');
+?>
 
 </body>
 

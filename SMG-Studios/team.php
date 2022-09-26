@@ -32,6 +32,8 @@ foreach ($rows as $row){
 <?php
 }
 ?>
-
+<?php
+include ('credits.php');
+?>
 </body>
 </html>

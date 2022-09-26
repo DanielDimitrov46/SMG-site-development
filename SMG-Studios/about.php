@@ -6,6 +6,8 @@
     ?>
 </head>
 <body>
-
+<?php
+include ('credits.php');
+?>
 </body>
 </html>
