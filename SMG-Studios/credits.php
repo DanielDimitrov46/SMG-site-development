@@ -18,18 +18,18 @@
     <div class = "navbar">
         <div class="col">
             <p>За нас</p>
-            <p><a href="about.php">Какво правим</a></p>
-            <p><a href="team.php">Кои сме ние</a></p>
+            <p><a class="credits" href="about.php">Какво правим</a></p>
+            <p><a class="credits" href="team.php">Кои сме ние</a></p>
         </div>
         <div class="col">
             <p>Социални мрежи</p>
-            <p><a href="https://www.facebook.com/profile.php?id=100063602310940">Facebook</a></p>
-            <p><a href="#">Instagram</a></p>
+            <p><a class="credits" href="https://www.facebook.com/profile.php?id=100063602310940">Facebook</a></p>
+            <p><a class="credits" href="#">Instagram</a></p>
         </div>
         <div class="col">
             <p>Последни ресурси?</p>
-            <p><a href="https://www.youtube.com/channel/UCZFL8vk7-Vllc7fyFMkVLPA/videos">YouTube</a></p>
-            <p><a href="blog.php">Блог</a></p>
+            <p><a class="credits" href="https://www.youtube.com/channel/UCZFL8vk7-Vllc7fyFMkVLPA/videos">YouTube</a></p>
+            <p><a class="credits" href="blog.php">Блог</a></p>
         </div>
         <div class="col">
             <h6 class = "programmers"><img class ="dsk" src="images/safd.png" alt="npgpokts">Made by Даниел Димитров 20109 and Вихрен Пиронски 20108</h6>

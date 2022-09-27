@@ -19,8 +19,9 @@
 .programmers{
     font-size: 12px;
 }
-/*a {*/
-/*    color: #111213;*/
-/*    text-decoration: none;*/
-/*    background-color: transparent;*/
-/*!*} PRoblem
+
+ .credits{
+    text-decoration: none; !important
+    color: black; !important
+
+}

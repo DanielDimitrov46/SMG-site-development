@@ -14,8 +14,8 @@
 <body>
 
 <!--- NAVBAR -->
-<div class = "banner">
-    <div class = "navbar" style="box-shadow: 2px 1px 10px gray; position: fixed">
+<div class = "banner" style="position: fixed; width: 100%; z-index: 500; ">
+    <div class = "navbar" style="box-shadow: 2px 1px 10px gray; ">
 
         <div class="col">
             <a href = "index.php" class = "image-logo"><img src = "images/SMHremoved.png" class = "logo" style="width: 15%"></a>
