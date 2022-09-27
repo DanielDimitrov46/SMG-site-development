@@ -19,6 +19,7 @@
         <?php
         include ('header.php');
         ?>
+  <br>
 
 </head>
 
@@ -26,6 +27,7 @@
 
 
 <body>
+<br><br><br><br><br>
 
 <!--    Carousel  -->
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
@@ -49,6 +51,9 @@
         <span class="visually-hidden">Next</span>
     </button>
 </div>
+
+<Br><br><br><br><br><br><br><br>
+
 <?php
 include ('credits.php');
 ?>

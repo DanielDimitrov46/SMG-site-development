@@ -1,0 +1,17 @@
+SMG WEBSITE
+----------------------------------------
+
+Technologies
+
+
+- servers - XAMPP
+- database - MySQL workbench
+- backend - PHP
+- frontend - HTML, CSS, JavaScript
+
+
+----------------------------------------
+
+
+First - database
+

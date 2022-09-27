@@ -16,6 +16,7 @@
 /*  background-size: cover; !*object fit*!*/
 /*  background-position: center;*/
 /*}*/
+
 .navbar {
   width: 85%;
   margin: auto;
@@ -41,6 +42,8 @@
 }
 
 .carousel slide{
+  position: fixed;
+  background-position: 100px 5px;
   height: 300px;
 }
 .carousel-item{

@@ -15,7 +15,7 @@
 
 <!--- NAVBAR -->
 <div class = "banner">
-    <div class = "navbar">
+    <div class = "navbar" style="box-shadow: 2px 1px 10px gray; position: fixed">
 
         <div class="col">
             <a href = "index.php" class = "image-logo"><img src = "images/SMHremoved.png" class = "logo" style="width: 15%"></a>
