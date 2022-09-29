@@ -57,8 +57,23 @@
     </button>
 </div>
 
-<Br><br><br><br><br><br><br><br>
-
+<br><br>
+<div class="texts">
+    <div class="first-quarter">
+        <p>jksdafnfjisndfnsdfbnw
+            lifnafbnbuifnasdnfjsnafnafn</p>
+    </div>
+    <div class="second-quarter">
+        <img class = "neshto1" src="images/quarters/neshto1.jpg" alt="...">
+    </div>
+    <div class="third-quarter">
+        <img class = "neshto2" src="images/quarters/neshto2.jpg" alt="...">
+    </div>
+    <div class="fourth-quarter">
+        <p>sdffhjbbbbbbbhjsdfbhkjbsdfhjbsdhjfbsdjh</p>
+    </div>
+</div>
+<br><br><br><br>
 <?php
 include ('credits.php');
 ?>

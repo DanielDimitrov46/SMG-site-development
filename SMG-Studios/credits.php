@@ -15,7 +15,7 @@
 
 <!--- CREDITS -->
 <div class = "banner">
-    <div class = "navbar">
+    <div class = "bottom-bar">
         <div class="col">
             <p>За нас</p>
             <p><a class="credits" href="about.php">Какво правим</a></p>
@@ -27,7 +27,7 @@
             <p><a class="credits" href="#">Instagram</a></p>
         </div>
         <div class="col">
-            <p>Последни ресурси?</p>
+            <p>Последни ресурси</p>
             <p><a class="credits" href="https://www.youtube.com/channel/UCZFL8vk7-Vllc7fyFMkVLPA/videos">YouTube</a></p>
             <p><a class="credits" href="blog.php">Блог</a></p>
         </div>
