@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<style>
+    .left{float:left;}
+    .right{float:right;}
+</style>
 
 
 <head>
@@ -36,16 +39,17 @@
 
 
 <!--    Carousel  -->
+
 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" >
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="images/carousel/studio1.jpg" style="height: 1000px; width: 100%">
+            <img src="images/carousel/studio1.jpg" style="height: 1000px; width: 1000px; float: left">
         </div>
         <div class="carousel-item">
-            <img src="images/carousel/studio2.jpg" style="height: 1000px; width: 100%">
+            <img src="images/carousel/studio2.jpg" style="height: 1000px; width: 1000px; float: left">
         </div>
         <div class="carousel-item">
-            <img src="images/carousel/studio3.png" style="height: 600px; width: 100%">
+            <img src="images/carousel/studio3.png" style="height: 600px; width: 1000px; float: left">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -65,7 +69,8 @@
 <div class="texts">
     <div class="first-quarter">
         <p>jksdafnfjisndfnsdfbnw
-            lifnafbnbuifnasdnfjsnafnafn</p>
+            lifnafbnbuifnasdnfjsnafnafn
+        </p>
     </div>
     <div class="second-quarter">
         <img class = "neshto1" src="images/quarters/neshto1.jpg" alt="...">
