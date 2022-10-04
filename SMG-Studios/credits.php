@@ -31,9 +31,13 @@
             <p><a class="credits" href="https://www.youtube.com/channel/UCZFL8vk7-Vllc7fyFMkVLPA/videos">YouTube</a></p>
             <p><a class="credits" href="blog.php">Блог</a></p>
         </div>
+        <img class ="uktc_logo" src="images/safd.png" alt="npgpokts">
         <div class="col">
-            <h6 class = "programmers"><img class ="dsk" src="images/safd.png" alt="npgpokts">Made by Даниел Димитров 20109 and Вихрен Пиронски 20108</h6>
+            <h6 class = "programmers">Даниел Димитров 20109<br> Вихрен Пиронски 20108</h6>
         </div>
+<!--        <div class="col">-->
+<!--            <h6 class = "programmers"><img class ="dsk" src="images/safd.png" alt="npgpokts">Даниел Димитров 20109<br> Вихрен Пиронски 20108</h6>-->
+<!--        </div>-->
     </div>
 </div>
 

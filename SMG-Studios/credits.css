@@ -21,17 +21,19 @@
 
 .col{
     margin-left: 10px;
-    font-size: 10px;
 }
-.dsk{
-    width: 7%;
+.uktc_logo{
+    width: 4%;
     height: auto;
 }
 .programmers{
-    font-size: 12px;
+    font-size: 14px;
 }
 
-p .credits{
+p{
+    font-size: 13px;
+}
+.credits{
     text-decoration: none;
     color: black !important;
 }

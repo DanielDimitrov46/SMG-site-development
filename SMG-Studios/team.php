@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php
-    include ('header.php');
-    ?>
+
 </head>
+
 <body>
+<?php
+include ('header.php');
+?>
+<br><br><br><br><br>
 <h1>Database structures</h1>
 <?php
 $servername = "localhost:3306";

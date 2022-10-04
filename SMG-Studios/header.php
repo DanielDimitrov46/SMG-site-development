@@ -18,8 +18,9 @@
     <div class = "navbar" style="box-shadow: 2px 1px 10px gray; ">
 
         <div class="col">
-            <a href = "index.php" class = "image-logo"><img src = "images/SMHremoved.png" class = "logo" style="width: 15%"></a>
+            <a href = "index.php" class = "image-logo"><img src = "images/da%20te%20eba.png" class = "logo" style="width: 15%"></a>
         </div>
+
 
 
         <div class="col">
