@@ -16,19 +16,22 @@
 
 <!--- NAVBAR -->
 <!-- Load an icon library to show a hamburger menu (bars) on small screens -->
-<div class="topnav" id="myTopnav">
-    <a href="#home" class="active">Home</a>
-    <a href="#news">News</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-        <i class="fa fa-bars"></i>
-    </a>
+<div class="banner" style="position: fixed; width: 100%; z-index: 500; ">
+    <div class="topnav" id="myTopnav" style="box-shadow: 2px 1px 10px gray;">
+        <a href = "index.php" class = "image-logo"><img src = "images/da%20te%20eba.png" class = "logo"></a>
+        <a href="#news">News</a>
+        <a href="#contact">Contact</a>
+        <a href="#about">About</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
+    <div class="col"
+
 </div>
-<div class="col"
-        <a href = "index.php" class = "image-logo"><img src = "images/da%20te%20eba.png" class = "logo" style="width: 15%"></a>
 </div>
 
+<br><br><br>
 
 <!--<div class = "banner" style="position: fixed; width: 100%; z-index: 500; ">-->
 <!--    <div class = "navbar" style="box-shadow: 2px 1px 10px gray; ">-->
