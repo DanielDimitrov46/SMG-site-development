@@ -12,81 +12,40 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 </head>
+<style>
+    .navbar-custom {
+        background-color: #dee5d5;
+        width: 100%;
+    }
+</style>
 <body>
 
 <!--- NAVBAR -->
-<!-- Load an icon library to show a hamburger menu (bars) on small screens -->
-<div class="banner" style="position: fixed; width: 100%; z-index: 500; ">
-    <div class="topnav" id="myTopnav" style="box-shadow: 2px 1px 10px gray;">
-        <a href = "index.php" class = "image-logo"><img src = "images/da%20te%20eba.png" class = "logo"></a>
-        <a href="#news">News</a>
-        <a href="#contact">Contact</a>
-        <a href="#about">About</a>
-        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-            <i class="fa fa-bars"></i>
-        </a>
+<nav class="navbar navbar-expand-lg navbar-custom py-4 fixed-top">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Logo</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+            </ul>
+        </div>
     </div>
-    <div class="col"
-
-</div>
-</div>
-
-<br><br><br>
-
-<!--<div class = "banner" style="position: fixed; width: 100%; z-index: 500; ">-->
-<!--    <div class = "navbar" style="box-shadow: 2px 1px 10px gray; ">-->
-<!---->
-<!--        <nav class="navbar navbar-expand-lg navbar-light bg-light">-->
-<!--            <a class="navbar-brand" href="#">Navbar</a>-->
-<!--            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">-->
-<!--                <span class="navbar-toggler-icon"></span>-->
-<!--            </button>-->
-<!--            <div class="collapse navbar-collapse" id="navbarNav">-->
-<!--                <ul class="navbar-nav">-->
-<!--                    <li class="nav-item active">-->
-<!--                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>-->
-<!--                    </li>-->
-<!--                    <li class="nav-item">-->
-<!--                        <a class="nav-link" href="#">Features</a>-->
-<!--                    </li>-->
-<!--                    <li class="nav-item">-->
-<!--                        <a class="nav-link" href="#">Pricing</a>-->
-<!--                    </li>-->
-<!--                    <li class="nav-item">-->
-<!--                        <a class="nav-link disabled" href="#">Disabled</a>-->
-<!--                    </li>-->
-<!--                </ul>-->
-<!--            </div>-->
-<!--        </nav>-->
-<!---->
-<!--        <div class="col">-->
-<!--            <a href = "index.php" class = "image-logo"><img src = "images/da%20te%20eba.png" class = "logo" style="width: 15%"></a>-->
-<!--        </div>-->
-<!---->
-<!---->
-<!---->
-<!--        <div class="col">-->
-<!--            <ul>-->
-<!--                <button  class="button button1" onclick="window.location.href='team.php'" style="float: right; ">ЕКИП</button>-->
-<!--                <button class="button button1" onclick="window.location.href='blog.php'"  style="float: right">БЛОГ</button>-->
-<!--                <button  class="button button1" onclick="window.location.href='about.php'" style="float: right; ">ПОВЕЧЕ ЗА НАС</button>-->
-<!--                <button class="button button1" onclick="window.location.href='index.php'"  style="float: right">НАЧАЛО</button>-->
-<!--            </ul>-->
-<!--        </div>-->
-<!---->
-
-    </div>
-</div>
+</nav>
 
 </body>
 </html>
 
-<script>/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
-    function myFunction() {
-        var x = document.getElementById("myTopnav");
-        if (x.className === "topnav") {
-            x.className += " responsive";
-        } else {
-            x.className = "topnav";
-        }
-    }</script>
