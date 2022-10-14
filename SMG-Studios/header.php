@@ -21,26 +21,19 @@
 <body>
 
 <!--- NAVBAR -->
-<nav class="navbar navbar-expand-lg navbar-custom py-4 fixed-top">
+<nav class="navbar navbar-expand-md navbar-custom py-4 fixed-top">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">Logo</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
-            <span class="navbar-toggler-icon"></span>
+        <a class="navbar-brand" href="index.php"><img class = "logo" src="images/da te eba.png" alt="..."></a>
+        <button class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon my-toggler">
+          </span>
         </button>
         <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Link</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link" href="#">Link</a>
-                </li>
+                <button class="button button1" onclick="window.location.href='index.php'"  style="float: right">НАЧАЛО</button>
+                <button  class="button button1" onclick="window.location.href='about.php'" style="float: right; ">ПОВЕЧЕ ЗА НАС</button>
+                <button class="button button1" onclick="window.location.href='blog.php'"  style="float: right">БЛОГ</button>
+                <button  class="button button1" onclick="window.location.href='team.php'" style="float: right; ">ЕКИП</button>
             </ul>
         </div>
     </div>
