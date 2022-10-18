@@ -14,7 +14,7 @@
 </head>
 <style>
     .navbar-custom {
-        background-color: #dee5d5;
+        background-color: rgba(250, 245, 241, 1.61);
         width: 100%;
     }
 </style>
@@ -30,10 +30,14 @@
         </button>
         <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav">
-                <button class="button button1" onclick="window.location.href='index.php'"  style="float: right">НАЧАЛО</button>
-                <button  class="button button1" onclick="window.location.href='about.php'" style="float: right; ">ПОВЕЧЕ ЗА НАС</button>
-                <button class="button button1" onclick="window.location.href='blog.php'"  style="float: right">БЛОГ</button>
-                <button  class="button button1" onclick="window.location.href='team.php'" style="float: right; ">ЕКИП</button>
+                <a class="button button1" href="index.php">НАЧАЛО</a>
+                <a class="button button1" href="about.php">ПОВЕЧЕ ЗА</a>
+                <a class="button button1"href="blog.php">БЛОГ</a>
+                <a class="button button1" href="team.php">ЕКИП</a>
+<!--                <button class="button button1" onclick="window.location.href='index.php'"  style="float: right">НАЧАЛО</button>-->
+<!--                <button  class="button button1" onclick="window.location.href='about.php'" style="float: right; ">ПОВЕЧЕ ЗА НАС</button>-->
+<!--                <button class="button button1" onclick="window.location.href='blog.php'"  style="float: right">БЛОГ</button>-->
+<!--                <button  class="button button1" onclick="window.location.href='team.php'" style="float: right; ">ЕКИП</button>-->
             </ul>
         </div>
     </div>
