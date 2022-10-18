@@ -15,29 +15,26 @@
 
 /*Buttons*/
 .button {
-    border-radius: 6px;
     background-color: white;
     border: none;
     color: #90c97c;
     padding: 10px 10px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
     font-size: 13px;
     margin-right: 50px;
     cursor: pointer;
 }
 
 .button1 {
-    background-color: #dee5d5;
     color: black;
-    border: 2px solid #90c97c;
+    /*border: 2px solid #90c97c;*/
 }
 
 .button1:hover {
     transition: 0.5s;
-    background-color: #90c97c;
-    color: white;
+    /*background-color: #90c97c;*/
+    color: #90c97c;
 }
 .custom-toggler.navbar-toggler {
     border-color: lightgreen;
