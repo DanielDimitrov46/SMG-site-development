@@ -67,10 +67,10 @@
         </p>
     </div>
     <div class="second-quarter">
-        <img class = "neshto1" src="images/quarters/neshto1.jpg" alt="...">
+<!--        <img class = "neshto1" src="images/quarters/neshto1.jpg" alt="...">-->
     </div>
     <div class="third-quarter">
-        <img class = "neshto2" src="images/quarters/neshto2.jpg" alt="...">
+<!--        <img class = "neshto2" src="images/quarters/neshto2.jpg" alt="...">-->
     </div>
     <div class="fourth-quarter">
         <p>Why do we use it?

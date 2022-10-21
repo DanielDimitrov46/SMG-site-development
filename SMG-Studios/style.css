@@ -59,18 +59,18 @@ body{
 }
 .first-quarter{
   width: 50%;
-  height: 200px;
+  height: 50%;
   float: left;
 }
 .second-quarter{
   width: 50%;
-  height: 200px;
+  height: 60%;
   background-color: black;
   float: right;
 }
 .third-quarter{
   width: 50%;
-  height: 200px;
+  height: 60%;
   background-color: black;
   /*margin-top: 50px;*/
   float: left;
@@ -80,12 +80,20 @@ body{
   height: 200px;
   float: right;
 }
-.neshto1{
-  width: 200px;
-  height: 200px;
-}
-.neshto2{
-  width: 450px;
-  height: 200px;
-}
+/*.neshto1{*/
+/*  width: 200px;*/
+/*  height: 200px;*/
+/*}*/
+/*.neshto2{*/
+/*  width: 450px;*/
+/*  height: 200px;*/
+/*!*}*! zakomentiram tuk zaradi snimkite i da se opravqt samite boksove*/
 /*.carousel-inner{overflow:visible} */
+
+/*Texts for quarter*/
+.first-quarter p{
+  padding-left: 1%;
+}
+.fourth-quarter p{
+  padding-left: 1%;
+}
