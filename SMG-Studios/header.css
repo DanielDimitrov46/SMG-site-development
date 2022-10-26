@@ -15,16 +15,24 @@
 
 /*Buttons*/
 .button {
+    /*background-color: white;*/
+    /*border: none;*/
+    /*color: #90c97c;*/
+    /*padding: 10px 10px;*/
+    /*text-align: center;*/
+    /*text-decoration: none;*/
+    /*font-size: 13px;*/
+    /*margin-right: 50px;*/
+    /*cursor: pointer;*/
+    /*justify-content: center;*/
     background-color: white;
-    border: none;
-    color: #90c97c;
     padding: 10px 10px;
     text-align: center;
     text-decoration: none;
     font-size: 13px;
     margin-right: 50px;
     cursor: pointer;
-    justify-content: center;
+
 }
 
 .button1 {

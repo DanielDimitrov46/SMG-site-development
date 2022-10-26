@@ -25,8 +25,7 @@
 <nav class="navbar navbar-expand-md navbar-custom py-4 fixed-top">
     <div class="container-fluid">
         <a class="navbar-brand" href="index.php"><img class="logo" src="images/da te eba.png" alt="..."></a>
-        <button class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse"
-                data-target="#collapsibleNavbar">
+        <button class="navbar-toggler ml-auto custom-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon my-toggler">
           </span>
         </button>
