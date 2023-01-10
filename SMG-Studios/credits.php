@@ -32,7 +32,7 @@
         <div class="col">
             <p>Последни ресурси</p>
             <p><a class="credits" href="https://www.youtube.com/channel/UCZFL8vk7-Vllc7fyFMkVLPA/videos">YouTube</a></p>
-            <p><a class="credits" href="blog.php">Блог</a></p>
+            <p><a class="credits" href="news.php">Блог</a></p>
         </div>
         <img class="uktc_logo" src="images/safd.png" alt="npgpokts">
         <div class="col">

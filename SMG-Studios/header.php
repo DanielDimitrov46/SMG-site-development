@@ -14,10 +14,7 @@
 
 </head>
 <style>
-    .navbar-custom {
-        background-color: rgba(250, 245, 241, 1.61);
-        width: 100%;
-    }
+
 </style>
 <body>
 
@@ -33,7 +30,7 @@
             <ul class="navbar-nav">
                 <a class="button button1" href="index.php">НАЧАЛО</a>
                 <a class="button button1" href="about.php">ПОВЕЧЕ ЗА НАС</a>
-                <a class="button button1" href="blog.php">БЛОГ</a>
+                <a class="button button1" href="news.php">НОВИНИ</a>
                 <a class="button button1" href="team.php">ЕКИП</a>
                 <!--                <button class="button button1" onclick="window.location.href='index.php'"  style="float: right">НАЧАЛО</button>-->
                 <!--                <button  class="button button1" onclick="window.location.href='about.php'" style="float: right; ">ПОВЕЧЕ ЗА НАС</button>-->
